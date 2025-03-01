@@ -1,10 +1,11 @@
+<img align="centre" alt="Coding" height="415" width="1100" src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1616667695311?e=1746057600&v=beta&t=E7XnLd0OPka3xQfmBa224QlLoRskEecFvsC-Vvm2FP4">
 <h1 align="center">Hi 👋, I'm Ayush Jain</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-(img align="right" alt="Coding" width="400" src="C:\Users\jain1\Desktop\gif.gif")
+
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paras01-hub&label=Profile%20views&color=0e75b6&style=flat" alt="paras01-hub" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=eng-ayush06&label=Profile%20views&color=0e75b6&style=flat" alt="eng-ayush06" /> </p>
 
 
 - 👨‍💻 All of my projects are available at **https://github.com/eng-ayush06**
